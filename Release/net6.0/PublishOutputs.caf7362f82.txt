@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\New WebAPP\WebApp .NET\obj\Release\net6.0\PubTmp\Out\WebApp .NET.exe
+C:\Users\admin\Documents\New WebAPP\WebApp .NET\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\admin\Documents\New WebAPP\WebApp .NET\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\admin\Documents\New WebAPP\WebApp .NET\obj\Release\net6.0\PubTmp\Out\WebApp .NET.dll
+C:\Users\admin\Documents\New WebAPP\WebApp .NET\obj\Release\net6.0\PubTmp\Out\WebApp .NET.deps.json
+C:\Users\admin\Documents\New WebAPP\WebApp .NET\obj\Release\net6.0\PubTmp\Out\WebApp .NET.runtimeconfig.json
+C:\Users\admin\Documents\New WebAPP\WebApp .NET\obj\Release\net6.0\PubTmp\Out\WebApp .NET.pdb
